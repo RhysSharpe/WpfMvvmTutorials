@@ -7,6 +7,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TutorialsPointDemo", "Tutor
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TutorialsPointHierarchiesDemo", "TutorialsPointHierarchiesDemo\TutorialsPointHierarchiesDemo.csproj", "{E5903B64-407F-4463-A1BF-FF8AB84FBD46}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TutorialsPointUnitTestMvvmDemo", "TutorialsPointUnitTestMvvmDemo\TutorialsPointUnitTestMvvmDemo.csproj", "{B751B89A-BF24-4198-B9CC-7F68DA94D83F}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -21,6 +23,10 @@ Global
 		{E5903B64-407F-4463-A1BF-FF8AB84FBD46}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{E5903B64-407F-4463-A1BF-FF8AB84FBD46}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{E5903B64-407F-4463-A1BF-FF8AB84FBD46}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B751B89A-BF24-4198-B9CC-7F68DA94D83F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B751B89A-BF24-4198-B9CC-7F68DA94D83F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B751B89A-BF24-4198-B9CC-7F68DA94D83F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B751B89A-BF24-4198-B9CC-7F68DA94D83F}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

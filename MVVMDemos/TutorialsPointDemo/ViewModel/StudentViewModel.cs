@@ -60,5 +60,9 @@ namespace TutorialsPointDemo.ViewModel
 
             Students = students;
         }
+        public int GetStudentCount()
+        {
+            return Students.Count;
+        }
     }
 }

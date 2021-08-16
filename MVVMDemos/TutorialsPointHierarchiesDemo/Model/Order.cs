@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace TutorialsPointHierarchiesDemo.Model
 {
-    class Order
+    public class Order
     {
     }
 }

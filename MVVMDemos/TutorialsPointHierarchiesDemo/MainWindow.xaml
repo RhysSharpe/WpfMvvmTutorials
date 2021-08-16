@@ -21,6 +21,10 @@
         <DataTemplate DataType="{x:Type viewModels:OrderViewModel}">
             <views:OrderView/>
         </DataTemplate>
+
+        <DataTemplate DataType="{x:Type viewModels:AddEditCustomerViewModel}">
+            <views:AddEditCustomerView />
+        </DataTemplate>
     </Window.Resources>
 
     <Grid>
@@ -38,6 +42,7 @@
 
             <Button Content="Customers" Command="{Binding NavCommand}" CommandParameter="customers" Grid.Column="0" />
             <Button Content="Order" Command="{Binding NavCommand}" CommandParameter="orders" Grid.Column="2" />
+            <Button Content="AddEdit" Command="{Binding NavCommand}" CommandParameter="addedit" Grid.Column="1" />
         </Grid>
 
         <Grid x:Name="MainContent" Grid.Row="1">

@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace TutorialsPointHierarchiesDemo.ViewModel
 {
-    class MainWindowViewModel : BindableBase
+    public class MainWindowViewModel : BindableBase
     {
         public MainWindowViewModel()
         {
@@ -16,6 +16,8 @@ namespace TutorialsPointHierarchiesDemo.ViewModel
         private CustomerListViewModel custListViewModel = new CustomerListViewModel();
 
         private OrderViewModel orderViewModelModel = new OrderViewModel();
+
+        private AddEditCustomerViewModel addEditCustomerViewModel = new AddEditCustomerViewModel();
 
         private BindableBase _CurrentViewModel;
 
@@ -36,8 +38,10 @@ namespace TutorialsPointHierarchiesDemo.ViewModel
                     CurrentViewModel = orderViewModelModel;
                     break;
                 case "customers":
-                default:
                     CurrentViewModel = custListViewModel;
+                    break;
+                case "addedit":
+                    CurrentViewModel = addEditCustomerViewModel;
                     break;
             }
         }

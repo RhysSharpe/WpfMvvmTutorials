@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace TutorialsPointHierarchiesDemo.ViewModel
 {
-    class CustomerListViewModel : BindableBase
+    public class CustomerListViewModel : BindableBase
     {
     }
 }
