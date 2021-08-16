@@ -17,6 +17,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RIPTutorialMvvmDemo", "RIPT
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RIPTutorialMvvmDemo2", "RIPTutorialMvvmDemo2\RIPTutorialMvvmDemo2.csproj", "{9BD289A2-C0CB-457D-83E0-7F3448627EFE}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MicrosoftJoshSmithDemo", "MicrosoftJoshSmithDemo\MicrosoftJoshSmithDemo.csproj", "{87770E6C-5239-4B11-ACE0-99827062C283}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -51,6 +53,10 @@ Global
 		{9BD289A2-C0CB-457D-83E0-7F3448627EFE}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{9BD289A2-C0CB-457D-83E0-7F3448627EFE}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{9BD289A2-C0CB-457D-83E0-7F3448627EFE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{87770E6C-5239-4B11-ACE0-99827062C283}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{87770E6C-5239-4B11-ACE0-99827062C283}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{87770E6C-5239-4B11-ACE0-99827062C283}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{87770E6C-5239-4B11-ACE0-99827062C283}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
