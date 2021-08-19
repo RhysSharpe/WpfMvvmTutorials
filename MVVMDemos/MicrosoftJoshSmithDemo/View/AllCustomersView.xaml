@@ -36,6 +36,7 @@
       Stretch the content of each cell so that we can 
       right-align text in the Total Sales column. 
       -->
+            <Setter Property="HorizontalContentAlignment" Value="Stretch" />
             <!-- 
       Bind the IsSelected property of a ListViewItem to the 
       IsSelected property of a CustomerViewModel object.
