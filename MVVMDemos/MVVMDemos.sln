@@ -21,6 +21,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MicrosoftJoshSmithDemo", "M
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LearnMvvmDemo", "LearnMvvmDemo\LearnMvvmDemo.csproj", "{6851356D-E00C-47A4-8329-D9824CD43299}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CSharpCornerDemoByMujeebRahman", "CSharpCornerDemoByMujeebRahman\CSharpCornerDemoByMujeebRahman.csproj", "{487AE9AB-6AF5-4843-A891-8CBD9DEDFDD6}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CSharpCornerDemoByMujeebRahman2", "CSharpCornerDemoByMujeebRahman2\CSharpCornerDemoByMujeebRahman2.csproj", "{543BDCF5-261D-48F6-9F2D-707A38C7DDC9}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -63,6 +67,14 @@ Global
 		{6851356D-E00C-47A4-8329-D9824CD43299}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{6851356D-E00C-47A4-8329-D9824CD43299}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{6851356D-E00C-47A4-8329-D9824CD43299}.Release|Any CPU.Build.0 = Release|Any CPU
+		{487AE9AB-6AF5-4843-A891-8CBD9DEDFDD6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{487AE9AB-6AF5-4843-A891-8CBD9DEDFDD6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{487AE9AB-6AF5-4843-A891-8CBD9DEDFDD6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{487AE9AB-6AF5-4843-A891-8CBD9DEDFDD6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{543BDCF5-261D-48F6-9F2D-707A38C7DDC9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{543BDCF5-261D-48F6-9F2D-707A38C7DDC9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{543BDCF5-261D-48F6-9F2D-707A38C7DDC9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{543BDCF5-261D-48F6-9F2D-707A38C7DDC9}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
